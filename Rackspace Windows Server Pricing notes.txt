@@ -1,0 +1,11 @@
+SQL Server Web is $0.06 per 4 cores
+
+All of the Performance system/OS system disk space is 40GB.  This is the bare minimum for a Windows Server install and will likely fill with automatic updates.
+
+You can probably install the base Server OS in 20GB but it will overflow pretty soon with automatic updates.
+
+
+
+
+
+
